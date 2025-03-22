@@ -5,9 +5,17 @@ body{
 }
    
 
+bouton{
+    width: 35vw;
+    height: 15vh;
+    background-color: aqua;
+}
 
-
-
+bouton2{
+    width: 15vw;
+    height: 10vh;
+    background-color: blue;
+}
 
 
 
